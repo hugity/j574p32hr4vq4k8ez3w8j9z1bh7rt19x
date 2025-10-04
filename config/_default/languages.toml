@@ -1,15 +1,9 @@
-# ------------------------------------------------------------
-# English language
-# ------------------------------------------------------------
 [en]
-languageName = "En"
 languageCode = "en-us"
+languageName = "En"
 weight = 1
 
-# ------------------------------------------------------------
-# French language
-# ------------------------------------------------------------
 [fr]
-languageName = "Fr"
 languageCode = "fr-fr"
+languageName = "Fr"
 weight = 2
