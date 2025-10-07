@@ -1,6 +1,6 @@
 ---
 title: Billing & Pricing
-layout: faq
+type: docs
 ---
 Many businesses employ full-time pricing analysts or hire an analyst as a consultant for a particular project or concern.
 
