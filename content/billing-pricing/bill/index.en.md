@@ -1,17 +1,17 @@
 ---
-title: How to pay your bill
-date: 2022-12-29T05:02:05.000Z
-lastmod: 2023-01-05T04:42:26.000Z
-weight: 3
-draft: false
-keywords:
-  - money
-  - payment
 banner:
   title: Support Center & Knowledge base
   subtitle: Find advice and answers from our support team fast or get in touch
   bg_image: images/banner.jpg
   placeholder: Have a question? Just ask here or enter terms
+cta:
+  enable: true
+  title: Didn't find an answer to your question?
+  content: Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam.
+  button:
+    enable: true
+    label: contact us
+    link: contact/
 ---
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
