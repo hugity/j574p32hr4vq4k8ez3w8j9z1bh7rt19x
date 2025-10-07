@@ -1,11 +1,11 @@
 theme = "dot-hugo"
 hasCJKLanguage = false
-summaryLength = 10
+summaryLength = 100
 baseURL = "https://web.hugity.com/j574p32hr4vq4k8ez3w8j9z1bh7rt19x/"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-timeZone = "America/New_York"
-title = "Yes boy"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+timeZone = "Europe/London"
+title = "Title"
 disableLanguages = []
 
 [build]
@@ -97,17 +97,17 @@ home = [ "HTML", "RSS", "WebAppManifest", "SearchIndex" ]
 shortname = "themefisher-template"
 
 [services.googleAnalytics]
-ID = "G-MEASUREMENT_ID"
+ID = ""
 
 [params]
 [params.variables]
 body_color = "#f9f9f9"
-color_primary = "#02007e"
+color_primary = "#ff9300"
 font_primary = "Lato:wght@300;400;700"
-font_scale = "1.17"
-font_size = "16px"
-text_color = "#636363"
-text_dark = "#242738"
+font_scale = "2"
+font_size = "10px"
+text_color = "#000000"
+text_dark = "#941100"
 text_light = "#f8f9fa"
 black = "#000"
 white = "#fff"
@@ -145,7 +145,7 @@ link = "https://cpwebassets.codepen.io/assets/embed/ei.js"
 attributes = "async"
 
 [pagination]
-pagerSize = 2
+pagerSize = 10
 
 [permalinks]
 [permalinks.page]

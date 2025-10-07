@@ -1,15 +1,15 @@
 contact_form_action = "#"
-copyright = "Copyright by your company"
 custom_script = ""
 purge_css = true
-theme_copyright = true
 favicon = "images/favicon.png"
 logo = ""
-logo_text = "Dot"
-logo_width = "100px"
+logo_text = "Dottsy"
+logo_width = "1000px"
 image_gallery = true
 google_adsense = ""
 google_tag_manager = ""
+copyright = "Copyright by your company"
+theme_copyright = true
 logo_webp = true
 
 [contact_info]
@@ -33,15 +33,15 @@ preloader = ""
 
 [search]
 enable = true
-primary_color = "#02007e"
+primary_color = "#ff2f92"
 include_all_sections = true
 show_image = false
 
 [metadata]
-author = "Themefisher"
-description = "This is meta description"
+author = "Me"
+description = "Meta wub dub"
 image = "images/favicon.png"
-keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
+keywords = [ "Happy happy", "Brappy", "Crappy" ]
 
 [site_verification]
 bing = ""
@@ -53,19 +53,19 @@ mastodon = ""
 [[social]]
 title = "facebook"
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com"
 
 [[social]]
 title = "twitter"
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://www.twitter.com"
 
 [[social]]
 title = "github"
 icon = "ti-github"
-link = "#"
+link = "https://www.github.com"
 
 [[social]]
 title = "linkedin"
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com"
