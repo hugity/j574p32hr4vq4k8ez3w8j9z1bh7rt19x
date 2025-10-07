@@ -1,11 +1,9 @@
 ---
-title: "Billing & Pricing"
-date: 2022-12-28T11:02:05+06:00
-icon: "ti-credit-card"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
-type : "docs"
+title: Billing & Pricing
+date: 2022-12-28T05:02:05.000Z
+icon: ti-credit-card
+description: Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet
 ---
-
 Many businesses employ full-time pricing analysts or hire an analyst as a consultant for a particular project or concern.
 
 Pricing analysts look at industry standards, playing close attention to the pricing strategies of their competitors.
